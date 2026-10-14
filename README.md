@@ -40,6 +40,7 @@ Second commands and delegates to a specialized multi-agent operations fleet:
 - **Host Environment:** Kali Linux / Multi-model routing (`agy`).
 - **Authoritative Ledger:** Git versioning for all memory and doctrine updates (`USER.md`, `SOUL.md`).
 - **Evidence-Gated Improvement:** Scoped lessons, relevant retrieval, change-triggered revalidation, and source-linked promotion; repeated incidents prompt review rather than automatic rules.
+- **Single-Source Operations:** Canonical doctrine and task ownership, deterministic board retention, and rooted skill maintenance without widening tool permissions.
 
 ## 📡 GitHub Interaction Policy
 Reporting as `@2ndCommandAyala`. Unattended operations are strictly bounded:
