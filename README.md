@@ -37,7 +37,8 @@ Second commands and delegates to a specialized multi-agent operations fleet:
 ## ⚙️ Systems & Architecture
 - **Coordination Layer:** Local asynchronous blackboard (`BOARD.md`) for offline credential isolation.
 - **Persistence & Autonomy:** Recurring background schedulers (`tactical-heartbeat`, `github-watch`, `memory-consolidation`, `fleet-and-skill-audit`).
-- **Host Environment:** Kali Linux / Multi-model routing (`agy`).
+- **Host Environment:** Kali Linux / Multi-model routing (`agy`) and scoped Anthropic coding through Claude Code CLI.
+- **Skill Discovery:** Single-source repository skills, automatically discoverable by OpenClaw and native Codex; instructions load on selection and results require independent verification.
 - **Authoritative Ledger:** Git versioning for all memory and doctrine updates (`USER.md`, `SOUL.md`).
 - **Evidence-Gated Improvement:** Scoped lessons, relevant retrieval, change-triggered revalidation, and source-linked promotion; repeated incidents prompt review rather than automatic rules.
 - **Single-Source Operations:** Canonical doctrine and task ownership, deterministic board retention, and rooted skill maintenance without widening tool permissions.
