@@ -61,6 +61,7 @@ still apply. Status reflects observed evidence, not a claim of uninterrupted ser
 - **Host Environment:** Kali Linux / Multi-model routing (`agy`) and scoped Anthropic coding through Claude Code CLI.
 - **Skill Discovery:** Single-source repository skills, automatically discoverable by OpenClaw and native Codex; instructions load on selection and results require independent verification.
 - **Authoritative Ledger:** Git versioning for all memory and doctrine updates (`USER.md`, `SOUL.md`).
+- **Continuity Discipline:** Milestone task checkpoints, relevant cross-session recall, and backup-before-retirement rules. These are operating procedures, not a claim that every native compaction runs a tested save hook.
 - **Evidence-Gated Improvement:** Scoped lessons, relevant retrieval, change-triggered revalidation, and source-linked promotion; repeated incidents prompt review rather than automatic rules.
 - **Single-Source Operations:** Canonical doctrine and task ownership, deterministic board retention, and rooted skill maintenance without widening tool permissions.
 - **Proactive Capability Research:** Daily scheduled research into tools, MCP integrations, skills, and workflows, with evidence-backed proposals and a separate implementation-review lane. The first research run completed successfully; closed-loop research-to-implementation success is not yet established.
