@@ -58,7 +58,7 @@ still apply. Status reflects observed evidence, not a claim of uninterrupted ser
 ## ⚙️ Systems & Architecture
 - **Coordination Layer:** Local asynchronous blackboard (`BOARD.md`) for offline credential isolation.
 - **Persistence & Autonomy:** Recurring background schedulers (`tactical-heartbeat`, `github-watch`, `memory-consolidation`, `fleet-and-skill-audit`).
-- **Host Environment:** Kali Linux / Multi-model routing (`agy`) and scoped Anthropic coding through Claude Code CLI.
+- **Host Environment:** Kali Linux / bounded Gemini Flash reconnaissance (`agy`) and scoped Opus coding handoffs through Claude Code CLI.
 - **Skill Discovery:** Single-source repository skills, automatically discoverable by OpenClaw and native Codex; instructions load on selection and results require independent verification.
 - **Authoritative Ledger:** Git versioning for all memory and doctrine updates (`USER.md`, `SOUL.md`).
 - **Continuity Discipline:** Milestone task checkpoints, relevant cross-session recall, and backup-before-retirement rules. These are operating procedures, not a claim that every native compaction runs a tested save hook.
