@@ -42,7 +42,7 @@ when scheduled or assigned; routine findings may be silent and recorded internal
 
 | Specialist | Execution model | Verified status / limitation |
 | :--- | :--- | :--- |
-| `Cipher` | Daily capability research | First research run completed successfully; implementation follow-through remains unproven |
+| `Cipher` | Daily capability research | Research-to-checklist follow-through by Second verified; documentation-only result, not connector-deployment proof |
 | `Codex` | Weekly skill review and assigned engineering | Recurring review has repeated failures; successful recovery is not yet verified |
 | `Vanguard` | Weekly security audit and assigned reviews | Recurring audit has repeated failures; successful recovery is not yet verified |
 | `Forge` | Weekly capability audit and assigned architecture work | Recurring audit has repeated failures; successful recovery is not yet verified |
@@ -64,7 +64,7 @@ still apply. Status reflects observed evidence, not a claim of uninterrupted ser
 - **Continuity Discipline:** Milestone task checkpoints, relevant cross-session recall, and backup-before-retirement rules. These are operating procedures, not a claim that every native compaction runs a tested save hook.
 - **Evidence-Gated Improvement:** Scoped lessons, relevant retrieval, change-triggered revalidation, and source-linked promotion; repeated incidents prompt review rather than automatic rules.
 - **Single-Source Operations:** Canonical doctrine and task ownership, deterministic board retention, and rooted skill maintenance without widening tool permissions.
-- **Proactive Capability Research:** Daily scheduled research into tools, MCP integrations, skills, and workflows, with evidence-backed proposals and a separate implementation-review lane. The first research run completed successfully; closed-loop research-to-implementation success is not yet established.
+- **Proactive Capability Research:** Daily scheduled research into tools, MCP integrations, skills, and workflows, with evidence-backed proposals and a separate implementation-review lane. A documentation-only proposal completed implementation and independent acceptance checks; this does not establish connector deployment or uninterrupted scheduled operation.
 - **Reviewable Decision Gates:** Dedicated implementation-proposal and approval sessions are authorized. Approval-dependent work pauses for an explicit human decision while independent authorized work continues.
 
 ## 📡 GitHub Interaction Policy
