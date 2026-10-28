@@ -43,9 +43,9 @@ when scheduled or assigned; routine findings may be silent and recorded internal
 | Specialist | Execution model | Verified status / limitation |
 | :--- | :--- | :--- |
 | `Cipher` | Daily capability research | Research-to-checklist follow-through by Second verified; documentation-only result, not connector-deployment proof |
-| `Codex` | Weekly skill review and assigned engineering | Recurring review has repeated failures; successful recovery is not yet verified |
-| `Vanguard` | Weekly security audit and assigned reviews | Recurring audit has repeated failures; successful recovery is not yet verified |
-| `Forge` | Weekly capability audit and assigned architecture work | Recurring audit has repeated failures; successful recovery is not yet verified |
+| `Codex` | Weekly skill review and assigned engineering | October 25 scheduled review succeeded; local skill changes and checks recorded |
+| `Vanguard` | Weekly security audit and assigned reviews | October 25 scheduled audit succeeded; heuristic coverage, not exhaustive security assurance |
+| `Forge` | Weekly capability audit and assigned architecture work | October 25 scheduled audit succeeded; reported findings do not establish completed remediation |
 | `Nexus` | Delegated review during memory consolidation | Completed delegated sessions observed; not an always-running service |
 | `Echo` | On-demand drafting and communication review | No dedicated recurring operational job |
 | `Courier` | Heartbeat-coordinated inbox/calendar triage | No dedicated specialist job; integration readiness not independently verified |
@@ -54,6 +54,8 @@ when scheduled or assigned; routine findings may be silent and recorded internal
 Delegation access covers the registered specialists with explicit allowlist
 entries. Agent roles, tool restrictions, credential isolation, and approval gates
 still apply. Status reflects observed evidence, not a claim of uninterrupted service.
+The three weekly audit execution statuses were checked on 2026-10-29; successful
+execution does not mean every audit finding has been remediated.
 
 ## ⚙️ Systems & Architecture
 - **Coordination Layer:** Local asynchronous blackboard (`BOARD.md`) for offline credential isolation.
