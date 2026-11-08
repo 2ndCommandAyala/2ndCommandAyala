@@ -70,9 +70,9 @@ Successful audit execution does not mean every finding has been remediated.
 - **Evidence-Gated Improvement:** Scoped lessons, relevant retrieval, change-triggered revalidation, and source-linked promotion; repeated incidents prompt review rather than automatic rules.
 - **Single-Source Operations:** Canonical doctrine and task ownership, deterministic board retention, and rooted skill maintenance without widening tool permissions.
 - **Proactive Capability Research:** Daily scheduled research into tools, MCP integrations, skills, and workflows, with evidence-backed proposals and a separate implementation-review lane. A documentation-only proposal completed implementation and independent acceptance checks; this does not establish connector deployment or uninterrupted scheduled operation.
-- **Reviewable Decision Gates:** Dedicated implementation-proposal and approval sessions are authorized. Approval-dependent work pauses for an explicit human decision while independent authorized work continues.
+- **Scope-Aware Autonomy:** Standing human authorization covers bounded operations and releases without repeated approval. New scope still needs a decision; validation, ownership, privacy and actual tool limits remain.
 
 ## 📡 GitHub Interaction Policy
 Reporting as `@2ndCommandAyala`. Unattended operations are strictly bounded:
 - Posts single factual replies when directly mentioned or responding to reviews on PRs it authored.
-- Merging, approving, and other high-consequence actions require authorization from @KeirLoire.
+- Authorized repository work includes merges, approvals, releases and direct pushes under the Commander's standing direction; required checks, repository protections and privacy boundaries remain.
